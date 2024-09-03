@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+}
+.caja1{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+.caja2{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 520px;
+}
+.caja2-1{
+    background-color: black;
+    width: 20px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 60px;
+}
+.caja2-2{
+    background-color: black;
+    width: 20px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    left: 123px;
+}
+.cornea{
+    background-color: white;
+    width: 10px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+    left: 5px;
+}
+.cornea2{
+    background-color: white;
+    width: 10px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 4px;
+    left: 5px;
+}
+.nariz{
+    background-color: black;
+    width: 30px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 85px;
+    left: 85px;
+}
+.boca{
+    background-color: brown;
+    width: 60px;
+    height: 20px;
+    border-radius: 50%;
+    border-style: groove;
+    border-width:10px ;
+    border-color: black;
+    position: absolute;
+    top: 130px;
+    left: 60px;
+}
+.caja3{
+    background-color: brown;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 690px;
+}
+.caja4{
+    background-color: brown;
+    width: 70px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 450px;
+}
+.caja5{
+    background-color: brown;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 470px;
+}
+.caja5-1{
+    background-color: cadetblue;
+    width: 100px;
+    height: 200px;
+    border-radius: 50%;
+    border-style: groove;
+    border-width: 20px;
+    border-color: blueviolet;
+    position: absolute;
+    top: 40px;
+    left: 80px;
+
+}
+.caja6{
+    background-color: brown;
+    width: 70px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 730px;
+}
+.caja7{
+    background-color: brown;
+    width: 70px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 565px;
+    left: 470px;
+}
+.caja8{
+    background-color: brown;
+    width: 70px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 565px;
+    left: 700px;
+}
